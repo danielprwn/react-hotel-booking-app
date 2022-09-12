@@ -1,8 +1,8 @@
-React Hotel Rooms Booking Web App.
+# React Hotel Rooms Booking Web App.
 
 ✔ Searching and filtering hotel rooms.
 
-Technologies ✅ HTML ✅ CSS ⚛ React JS 
+## Technologies ✅ HTML ✅ CSS ⚛ React JS 
 
 Download the repository and run it locally:
 
