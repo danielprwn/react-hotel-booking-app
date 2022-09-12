@@ -1,8 +1,8 @@
-Google Drive clone web app.
+React Hotel Rooms Booking Web App.
 
-✔ Ability to transfer files to disk. ✔ Login option with Google.
+✔ Searching and filtering hotel rooms.
 
-Technologies ✅ HTML ✅ CSS ⚛ React JS ✅ Firebase
+Technologies ✅ HTML ✅ CSS ⚛ React JS 
 
 Download the repository and run it locally:
 
